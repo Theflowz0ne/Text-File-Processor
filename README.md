@@ -2,6 +2,8 @@
 
 This project is a simple web-based text file processor that allows users to upload a text file, specify a maximum number of characters per line, and process the file to format lines according to the specified limit. The processed text can then be downloaded as a new text file. The application uses Tailwind CSS for styling.
 
+This project was done to shorten subs that are more than X symbols long, and to get them to the next line softly (Not mid word).
+
 ## Features
 
 - **Upload Text File:** Users can upload a text file (.txt format).
